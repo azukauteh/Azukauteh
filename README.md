@@ -13,11 +13,9 @@ I'm a passionate Software Engineer, dedicated to advancing my skills and contrib
 
 📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
 
-## Connect with Me :earth_africa:
-
 Feel free to connect with me on the following platforms:
 
-- <a href="https://twitier.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=twitter" alt="Twitter" width="150px" height="30px" /></a>
+- <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="x" width="150px" height="30px" /></a>
 - <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="150px" height="30px" /></a>
 
 ## Languages and Tools :computer:
