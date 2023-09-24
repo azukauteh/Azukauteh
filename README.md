@@ -4,10 +4,10 @@ A passionate Software Engineer, dedicated to advancing my skills and contributin
 
 ## About Me :rocket:
 
-- 🔭 I'm currently a Software Engineering student at **ALX_africa**.
-- 🌱 I'm continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
-- 👯 I'm open to collaborating on exciting projects related to software development.
-- 🤝 I'm always looking to connect with like-minded professionals and experts in the field.
+- 🔭 Currently a Software Engineering student at **ALX_africa**.
+- 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
+- 👯 Open to collaborating on exciting projects related to software development.
+- 🤝 Always looking to connect with like-minded professionals and experts in the field.
 
 ## Contact Me :email:
 
