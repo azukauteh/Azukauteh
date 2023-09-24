@@ -40,7 +40,6 @@ Here are some of the languages and tools I'm proficient in:
 I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
 
 
-![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical)
 
