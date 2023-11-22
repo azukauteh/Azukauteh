@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm Azuka Uteh
+# Howzit! 👋 I'm Azuka Uteh
 
 A passionate Software Engineer, dedicated to advancing my skills and contributing to the tech community. With a strong foundation in software development and networking, I aim to bring innovation to the digital landscape.
 
-## About Me 🚀
+## About Me :
 
 - 🔭 Currently a Software Engineering student at **ALX_africa**.
 - 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
 - 👯 Open to collaborating on exciting projects related to software development.
 - 🤝 Always looking to connect with like-minded professionals and experts in the field.
 
-## Contact Me 📧
+## Contact Me :
 
 📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
 
@@ -32,7 +32,6 @@ Connect with me on the following platforms:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" /> Photoshop
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" /> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="20" /> Scikit-learn
-
 
 I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
 
