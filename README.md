@@ -37,7 +37,10 @@ Here are some of the languages and tools I'm proficient in:
 
 I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="si6dAB6"><a href="https://imgur.com/si6dAB6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+![image 1](https://i.imgur.com/si6dAB6.png)
+
 
 ![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical)
 
