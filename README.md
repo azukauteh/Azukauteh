@@ -13,14 +13,12 @@ A passionate Software Engineer, dedicated to advancing my skills and contributin
 
 📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
 
-Feel free to connect with me on the following platforms:
+ connect with me on the following platforms:
 
 - <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="x" width="150px" height="30px" /></a>
 - <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="150px" height="30px" /></a>
 
-## Languages and Tools :computer:
-
-Here are some of the languages and tools I'm proficient in:
+## Tech Stack:computer:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40px" height="40px" /> C
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40px" height="40px" /> CSS3
@@ -34,6 +32,8 @@ Here are some of the languages and tools I'm proficient in:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40px" height="40px" /> Photoshop
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" height="40px" /> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40px" height="40px" /> Scikit-learn
+
+
 
 I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
 
