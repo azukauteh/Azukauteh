@@ -23,15 +23,15 @@ Connect with me on the following platforms:
 - ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=30) C
 - ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg | width=30) CSS3
 - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg | width=30) Git
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=30) HTML5
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=10) HTML5
 - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=30) Java
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=30) JavaScript
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=10) JavaScript
 - ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg | width=30) Linux
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=30) MySQL
-- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg | width=30) Pandas
-- ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg | width=30) Photoshop
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=30) Python
-- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg | width=30) Scikit-learn
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=10) MySQL
+- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg | width=10) Pandas
+- ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg | width=10) Photoshop
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=10) Python
+- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg | width=10) Scikit-learn
 
 I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
 
