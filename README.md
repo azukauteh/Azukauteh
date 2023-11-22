@@ -15,8 +15,8 @@ A passionate Software Engineer, dedicated to advancing my skills and contributin
 
 Connect with me on the following platforms:
 
-- <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="Twitter" width="150px" height="30px" /></a>
-- <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="150px" height="30px" /></a>
+- <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="Twitter" width="120px" height="25px" /></a>
+- <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="120px" height="25px" /></a>
 
 ## Tech Stack 💻
 
