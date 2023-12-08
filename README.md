@@ -1,10 +1,10 @@
-# Howzit! 👋 I'm Azuka Uteh
+# Hello, how are you doing today? 👋 . I hope you 
 
-A passionate Software Engineer, dedicated to advancing my skills and contributing to the tech community. With a strong foundation in software development and networking, I aim to bring innovation to the digital landscape.
+Passionate Software Engineer, dedicated to advancing my skills and contributing to the tech community. With a strong foundation in software development and networking, I aim to bring innovation to the digital landscape.
 
 ## About Me :
 
-- 🔭 Currently a Software Engineering student at **ALX_africa**.
+- 🔭 Currently a Software Engineering student  @Alx_africa software engineering program.
 - 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
 - 👯 Open to collaborating on exciting projects related to software development.
 - 🤝 Always looking to connect with like-minded professionals and experts in the field.
