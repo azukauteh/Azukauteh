@@ -1,6 +1,6 @@
-# Hello, how are you doing today? 👋 . I hope you 
+# How are you doing today? 🙂
 
-Passionate Software Engineer, dedicated to advancing my skills and contributing to the tech community. With a strong foundation in software development and networking, I aim to bring innovation to the digital landscape.
+Enthusiastic software developer committed to improving my abilities and giving back to the tech community. With a solid background in coding and networking, I strive to bring new ideas to the digital world!.
 
 ## About Me :
 
