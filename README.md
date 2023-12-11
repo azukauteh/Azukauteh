@@ -1,4 +1,4 @@
-# Hi, Bonjour. Howdy.? 🙂
+# Hi, Bonjour. Howdy!   🙂
 
 Enthusiastic software developer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
 
