@@ -1,4 +1,3 @@
-                                                                                           ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)  
                                                                                           
  Hi, Bonjour. Howdy!   🙂
 
@@ -10,8 +9,10 @@ Enthusiastic software developer committed to improving my abilities and giving b
 - 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
 - 👯 Open to collaborating on exciting projects related to software development.
 - 🤝 Always looking to connect with like-minded professionals and experts in the field.
+  
+![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)  
 
- Contact Me :
+Contact Me :
 
 📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
 
