@@ -37,4 +37,6 @@ I'm passionate about leveraging technology to create robust and secure network s
 
 ![image 1](https://i.imgur.com/si6dAB6.png)
 
-![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical)
+![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical) 
+
+![](https://komarev.com/ghpvc/?username=azukauteh-username&label=PROFILE+VIEWS)
