@@ -1,4 +1,4 @@
-                                                                                           ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS&color=lightgrey)  
+                                                                                           ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)  
                                                                                           
  Hi, Bonjour. Howdy!   🙂
 
