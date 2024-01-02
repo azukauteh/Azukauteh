@@ -1,15 +1,15 @@
-# Hi, Bonjour. Howdy!   🙂
+ Hi, Bonjour. Howdy!   🙂
 
 Enthusiastic software developer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
 
-## About Me :
+ About Me :
 
 - 🔭 Currently a Software Engineering student  @Alx_africa software engineering program.
 - 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
 - 👯 Open to collaborating on exciting projects related to software development.
 - 🤝 Always looking to connect with like-minded professionals and experts in the field.
 
-## Contact Me :
+ Contact Me :
 
 📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
 
@@ -19,7 +19,7 @@ Connect with me on the following platforms:
 - <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="120px" height="25px" /></a>
 
 
-## Tech Stack 💻
+ Tech Stack 💻
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" /> C
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" /> CSS3
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" /> Git
