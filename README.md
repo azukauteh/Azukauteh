@@ -1,3 +1,5 @@
+                                                                                             ![](https://komarev.com/ghpvc/?username=azukauteh-username&label=PROFILE+VIEWS)  
+                                                                                             ![](https://komarev.com/ghpvc/?username=azukauteh-username&style=flat-square)
  Hi, Bonjour. Howdy!   🙂
 
 Enthusiastic software developer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
@@ -39,4 +41,4 @@ I'm passionate about leveraging technology to create robust and secure network s
 
 ![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical) 
 
-![](https://komarev.com/ghpvc/?username=azukauteh-username&label=PROFILE+VIEWS)
+
