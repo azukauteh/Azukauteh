@@ -1,5 +1,5 @@
-                                                                                             ![](https://komarev.com/ghpvc/?username=azukauteh-username&label=PROFILE+VIEWS)  
-                                                                                             ![](https://komarev.com/ghpvc/?username=azukauteh-username&style=flat-square)
+                                                                                           ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS&color=lightgrey)  
+                                                                                          
  Hi, Bonjour. Howdy!   🙂
 
 Enthusiastic software developer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
