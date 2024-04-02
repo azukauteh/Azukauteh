@@ -3,20 +3,15 @@
 
 Enthusiastic software engineer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
 
- About Me :
+ About :
 
-- 🔭 Currently a Software Engineering student  @Alx_africa software engineering program.
 - 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
 - 👯 Open to collaborating on exciting projects related to software development.
 - 🤝 Always looking to connect with like-minded professionals and experts in the field.
   
 ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)  
 
-Contact Me :
 
-📫 You can reach me via email at [aazure263@gmail.com](mailto:aazure263@gmail.com).
-
-Connect with me on the following platforms:
 
 - <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="Twitter" width="120px" height="25px" /></a>
 - <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="120px" height="25px" /></a>
