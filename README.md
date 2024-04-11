@@ -1,40 +1,70 @@
-                                                                                          
- Hi, Bonjour. Howdy!   🙂
 
-Enthusiastic software engineer committed to improving my abilities and giving back to the tech community. With a solid background in progrmming and networking, I strive to bring new ideas to the digital world!.
+                                           
+![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)
 
- About :
+[![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical)](https://github.com/azukauteh)
 
-- 🌱 Continually expanding my knowledge in software engineering and networking to stay at the forefront of technology.
-- 👯 Open to collaborating on exciting projects related to software development.
-- 🤝 Always looking to connect with like-minded professionals and experts in the field.
+
+
+
+Hi, Bonjour.Howdy!🙂
+
+
+Motivated software engineer always pursuing for improvement and returning expertise to the technology world. If you need someone with a strong foundation in programming as well as networking, then i am your guy. l will be more than glad to bring fresh ideas from the electronic universe.
+
+
+About :
+
+
+- 🌱 The process of continual growth and development in the areas of software engineering and networking to maintain myself at the leading edge of the technology developments.
+
+- 💎 Let me know if you are interested in working together on such awesome initiatives related to the development of software.
   
-![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Technologies & Tools: 💻</h1>
+    <ul>
+        <li>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="20" /> python 
+        </li>
+        <li>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" /> JavaScript
+        </li>
+        <li>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" /> React
+        </li>
+        <li>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" /> Node.js
+        </li>
+        <li>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" /> MongoDB
+        </li>
+    </ul>
+</body>
+</html>
 
 
+I'm passionate about using technology for robust network solutions. Let's connect to collaborate and share knowledge in networking.
 
 - <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="Twitter" width="120px" height="25px" /></a>
 - <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" width="120px" height="25px" /></a>
 
+- <a href="mailto:aazure263@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" width="120px" height="25px" />
+</a>
 
- Tech Stack 💻
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" /> C
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" /> CSS3
-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" /> Git
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" /> HTML5
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" /> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" /> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" /> Linux
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" /> MySQL
-- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="20" /> Pandas
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" /> Photoshop
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" /> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="20" /> Scikit-learn
 
-I'm passionate about leveraging technology to create robust and secure network solutions. Let's connect and explore opportunities to collaborate and share knowledge in the exciting world of networking.
+
+
 
 ![image 1](https://i.imgur.com/si6dAB6.png)
 
-![Azukauteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukauteh&show_icons=true&theme=radical) 
+
 
 
