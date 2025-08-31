@@ -33,8 +33,6 @@
 ![image 1](https://i.imgur.com/si6dAB6.png)
 
 ## 🐍 Contribution Snake Animation
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azukauteh/azukauteh/main/output/snake.svg" alt="Contribution Snake Animation (Light Theme)" />
-  <img src="https://raw.githubusercontent.com/azukauteh/azukauteh/main/output/snake-dark.svg" alt="Contribution Snake Animation (Dark Theme)" />
+  <img src="https://raw.githubusercontent.com/azukauteh/azukauteh/output/snake.svg" alt="Snake animation" />
 </p>
