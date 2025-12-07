@@ -29,10 +29,11 @@
 Backend Engineer  passionate about **secure, scalable architectures** and **audit‑friendly automation**.  
 I like building systems, improving processes, and sharing code.  
 
-<p >
-  <img src="https://img.shields.io/badge/AI%20Assistant-Online-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code%20Wizard-%F0%9F%AA%84-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%E2%9C%A8-purple?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Engineer-⚙️-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Assistant-🤖-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation%20Pro-📝-purple?style=flat-square" />
 </p>
 
 ---
