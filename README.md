@@ -8,7 +8,7 @@
 
 
 
-# I'm Azuka Uteh  
+ 
 ![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)
 <p>
   <img src="https://img.shields.io/badge/Public%20Repos-🗂️-blue" />
